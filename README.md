@@ -65,8 +65,7 @@ For every problem, I aim to:
 
 ## 🔗 Connect
 
-- **Codeforces:** [My Profile](https://codeforces.com/)
-- **GitHub:** [My Repositories](https://github.com/)
+- **Codeforces:** [My Profile](https://codeforces.com/profile/akshitbisht321)
 
 ---
 
